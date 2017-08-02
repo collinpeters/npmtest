@@ -1,6 +1,6 @@
 {
   "name": "npmtest",
-  "version": "1.2.12",
+  "version": "1.2.13-pre",
   "description": "testing",
   "main": "index.js",
   "scripts": {
